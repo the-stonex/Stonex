@@ -2,7 +2,7 @@
     「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
 
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuXMusic/blob/main/TheChampu.gif">
+  <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
 </p>
 </p>
  <h3></h3>
@@ -26,13 +26,13 @@
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 </a></p>
 <p align="center">
-<a href="https://github.com/TheChampu/ChampuXMusic"><img src="https://img.shields.io/github/stars/TheChampu/ChampuXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TheChampu/ChampuXMusic/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/ChampuXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/ChampuXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/TheChampu/TelegramMusicBot"><img src="https://img.shields.io/github/stars/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/TheChampu/TelegramMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/TheChampu/TelegramMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/ChampuXMusic/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/ChampuXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a></p>
+<a href="https://github.com/TheChampu/TelegramMusicBot/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/TelegramMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a></p>
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 <p align="center">
   <img src="https://github.com/TheChampu/ChampuMusic/blob/main/%F0%9F%96%A4%EA%9C%B1%E2%83%9F%D0%BD%CD%A5%CE%B9%CE%BD%CD%A3%CE%B1%CD%AB%D0%B8%D1%95%D0%BD%CF%85%F0%9F%96%A4.gif">
@@ -70,10 +70,10 @@ sudo apt-get install python3-pip ffmpeg -y
 sudo pip3 install -U pip
 ```
 ```console
-curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+curl -fssL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 ```
 ```console
-git clone https://github.com/TheChampu/ChampuXMusic &&  cd ChampuXMusic
+git clone https://github.com/TheChampu/TelegramMusicBot &&  cd ChampuXMusic
 ```
 ```console
 pip3 install -U -r requirements.txt
@@ -108,7 +108,7 @@ sudo pkill -9 python3
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
  
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheChampu/ChampuXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheChampu/TelegramMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
